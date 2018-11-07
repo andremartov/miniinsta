@@ -1,0 +1,2 @@
+# miniinsta
+andmebaasid - miniinsta veebirakendus
